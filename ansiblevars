@@ -1,0 +1,8 @@
+[IOS]
+172.16.192.1
+172.16.192.10
+172.16.192.12
+
+[all:vars]
+ansible_user=a
+ansible_ssh_pass=a
